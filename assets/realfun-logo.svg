@@ -1,0 +1,13 @@
+<svg width="200" height="220" viewBox="0 0 200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M25 25C25 16.7157 31.7157 10 40 10H78L52 78H25V25Z" fill="#F3C642"/>
+  <path d="M78 10H122L96 78H52L78 10Z" fill="#1FA9E1"/>
+  <path d="M122 10H160C168.284 10 175 16.7157 175 25V78H96L122 10Z" fill="#EA4389"/>
+  <path d="M25 78H96L70 146H25V78Z" fill="#1FA9E1"/>
+  <path d="M96 78H175V120C175 128.284 168.284 135 160 135H96V78Z" fill="#F3C642"/>
+  <path d="M25 146H96L70 214H40C31.7157 214 25 207.284 25 199V146Z" fill="#EA4389"/>
+  <path d="M96 135H160C168.284 135 175 141.716 175 150V199C175 207.284 168.284 214 160 214H96V135Z" fill="#4B3F8F"/>
+  <path d="M25 78H52V146H25V78Z" fill="#4B3F8F"/>
+  <path d="M96 78H122V135H96V78Z" fill="#8DD5E7"/>
+  <path d="M140 52C140 60.2843 133.284 67 125 67C116.716 67 110 60.2843 110 52C110 43.7157 116.716 37 125 37C133.284 37 140 43.7157 140 52Z" fill="#F6F1FF"/>
+  <text x="24" y="203" fill="#2A1B4C" font-family="'Nunito', sans-serif" font-size="32" font-weight="800">R</text>
+</svg>
