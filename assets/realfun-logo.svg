@@ -1,24 +1,13 @@
-<svg width="260" height="300" viewBox="0 0 260 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <title>Realfun Logo</title>
-  <g filter="url(#shadow)">
-    <path d="M36 24C36 14.0589 44.0589 6 54 6H96C104.837 6 112 13.1634 112 22V278C112 286.837 104.837 294 96 294H54C44.0589 294 36 285.941 36 276V24Z" fill="#FDBE3C"/>
-    <path d="M96 6H152C171.882 6 188 22.1177 188 42C188 49.1208 186.25 56.0708 182.941 62.2704L112 198.1V22C112 13.1634 104.837 6 96 6Z" fill="#22AEDB"/>
-    <path d="M121 122L185.5 56.5C197.999 43.7465 218.801 43.7546 231.287 56.5206L239.719 65.1503C254.112 80.1204 254.046 104.375 239.588 119.266L199.5 160L234 194.5C247.403 207.52 247.74 229.097 234.76 242.873L226.359 251.812C213.916 265.011 193.105 265.474 180.084 252.868L121 194.5V122Z" fill="#EB4094"/>
-    <path d="M112 198.1L145 139C156.481 118.345 184.482 115.602 199.5 133.595L233.5 174C246.569 189.511 242.452 212.791 224.509 222.37L187.5 242.5C174.628 249.495 159.053 247.015 148.925 236.154L112 198.1Z" fill="#3E3B8E"/>
-    <path d="M48 102H118C126.837 102 134 109.163 134 118V182C134 190.837 126.837 198 118 198H48C39.1634 198 32 190.837 32 182V118C32 109.163 39.1634 102 48 102Z" fill="#1DBBD8"/>
-    <rect x="104" y="38" width="76" height="12" rx="6" fill="white" opacity="0.9"/>
-    <circle cx="150" cy="86" r="16" fill="white"/>
-  </g>
-  <g font-family="'Nunito', 'Segoe UI', sans-serif" font-weight="800" font-size="36" fill="#1C1A5E">
-    <text x="18" y="332">Real</text>
-    <text x="122" y="332" fill="#EA4389">fun</text>
-  </g>
-  <defs>
-    <filter id="shadow" x="0" y="0" width="260" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feOffset dy="6"/>
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.16 0 0 0 0 0.09 0 0 0 0 0.28 0 0 0 0.35 0"/>
-      <feBlend in2="SourceGraphic" mode="normal"/>
-    </filter>
-  </defs>
+<svg width="200" height="220" viewBox="0 0 200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M25 25C25 16.7157 31.7157 10 40 10H78L52 78H25V25Z" fill="#F3C642"/>
+  <path d="M78 10H122L96 78H52L78 10Z" fill="#1FA9E1"/>
+  <path d="M122 10H160C168.284 10 175 16.7157 175 25V78H96L122 10Z" fill="#EA4389"/>
+  <path d="M25 78H96L70 146H25V78Z" fill="#1FA9E1"/>
+  <path d="M96 78H175V120C175 128.284 168.284 135 160 135H96V78Z" fill="#F3C642"/>
+  <path d="M25 146H96L70 214H40C31.7157 214 25 207.284 25 199V146Z" fill="#EA4389"/>
+  <path d="M96 135H160C168.284 135 175 141.716 175 150V199C175 207.284 168.284 214 160 214H96V135Z" fill="#4B3F8F"/>
+  <path d="M25 78H52V146H25V78Z" fill="#4B3F8F"/>
+  <path d="M96 78H122V135H96V78Z" fill="#8DD5E7"/>
+  <path d="M140 52C140 60.2843 133.284 67 125 67C116.716 67 110 60.2843 110 52C110 43.7157 116.716 37 125 37C133.284 37 140 43.7157 140 52Z" fill="#F6F1FF"/>
+  <text x="24" y="203" fill="#2A1B4C" font-family="'Nunito', sans-serif" font-size="32" font-weight="800">R</text>
 </svg>
